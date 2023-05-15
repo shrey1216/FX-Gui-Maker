@@ -1,6 +1,4 @@
 //@author Shreyan Wankavala
-//112634232
-//Recitation 01
 
 import java.io.FileNotFoundException;
 import java.util.Scanner;
